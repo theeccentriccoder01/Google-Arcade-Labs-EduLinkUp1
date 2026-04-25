@@ -33,7 +33,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Arcade%20Hero-%20Enter%20the%20Firewall%20Target%20Tag/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Arcade%20Hero-%20Enter%20the%20Firewall%20Target%20Tag/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```
@@ -226,3 +226,4 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+

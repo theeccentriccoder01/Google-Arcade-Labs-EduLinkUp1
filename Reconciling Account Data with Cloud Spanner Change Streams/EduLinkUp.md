@@ -34,7 +34,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/eccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Reconciling%20Account%20Data%20with%20Cloud%20Spanner%20Change%20Streams/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Reconciling%20Account%20Data%20with%20Cloud%20Spanner%20Change%20Streams/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```
@@ -227,3 +227,4 @@ Having issues? Here are quick solutions:
 <sub>Last updated: January 2026 | Version 1.0</sub>
 
 </div>
+
