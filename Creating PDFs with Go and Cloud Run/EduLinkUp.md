@@ -34,7 +34,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Creating%20PDFs%20with%20Go%20and%20Cloud%20Run/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

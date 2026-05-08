@@ -34,7 +34,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/App%20Dev-%20Deploying%20the%20Application%20into%20Kubernetes%20Engine%20-%20Python/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/App%20Dev-%20Deploying%20the%20Application%20into%20Kubernetes%20Engine%20-%20Python/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```

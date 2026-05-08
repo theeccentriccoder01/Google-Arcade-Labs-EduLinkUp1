@@ -34,7 +34,7 @@ graph LR
 Copy and paste the following commands into your Cloud Shell terminal:
 
 ```bash
-curl -LO raw.githubusercontent.com/theeccentriccoder/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Deploy%20a%20Modern%20Web%20App%20connected%20to%20a%20Cloud%20Spanner%20Instance/EduLinkUp.sh
+curl -LO raw.githubusercontent.com/theeccentriccoder01/Google-Arcade-Labs-EduLinkUp/refs/heads/main/Deploy%20a%20Modern%20Web%20App%20connected%20to%20a%20Cloud%20Spanner%20Instance/EduLinkUp.sh
 sudo chmod +x EduLinkUp.sh 
 ./EduLinkUp.sh
 ```
